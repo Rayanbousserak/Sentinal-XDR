@@ -1,4 +1,4 @@
-# Sentinel XDR  (v3.0) — Next-Gen SecOps Platform
+# Sentinal XDR  (v3.0) — Next-Gen SecOps Platform
 Sentinel XDR  is an enterprise-grade, lightweight Extended Detection and Response (XDR) and Security Operations Center (SOC) platform. Engineered for rapid deployment on resource-constrained environments (minimum 4.7 GB RAM), it orchestrates threat detection, machine learning analytics, automated response (SOAR), and incident management into a single pane of glass.
 
 By leveraging a robust microservices architecture containerized with Docker, Sentinel XDR  bridges the gap between raw telemetry ingestion and actionable threat intelligence.
